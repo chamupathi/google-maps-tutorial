@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.App .GoogleMapsWrapper {
+  width: 80%;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 5vh;
+}

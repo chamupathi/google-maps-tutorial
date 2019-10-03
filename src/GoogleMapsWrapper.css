@@ -1,0 +1,7 @@
+.GoogleMapsWrapper #map_area {
+    min-height: 100px;
+    height: 100%;
+    width: 100%;
+    /* background: red; */
+}
+
